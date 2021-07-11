@@ -1,0 +1,49 @@
+*{
+    padding:0;
+    margin:0;
+   
+}
+
+.container{
+    border:2px solid red;
+   
+   width:39%;
+  padding:30px;
+  padding-left:150px;
+  position:relative;
+  top:191px;
+  left:503px;
+}
+ h1{
+     margin: 10px;
+    color:blueviolet;
+    }
+
+
+    p{
+        margin-bottom: 8px;
+        color:cadetblue
+         
+    }
+    input{
+        margin:5px;
+        width:450px;
+        height:50px;
+      border-radius:100px;
+    }
+
+    a{
+        text-decoration: none;
+       
+    }
+
+    h3{
+        margin:12px;
+    }
+
+
+   
+
+
+
+
